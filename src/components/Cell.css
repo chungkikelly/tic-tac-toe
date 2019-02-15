@@ -1,0 +1,14 @@
+.cell {
+    background-color: #14bdac;
+    height: 100%;
+    width: 100%;
+}
+
+.circle {
+    fill: #14bdac;
+    stroke: white;
+}
+
+.x {
+    stroke: rgb(84, 84, 84);
+}
